@@ -1,5 +1,5 @@
 # SuperBlog 
-First Blog with implementation of ckeditor<br>
+First Blog with implementation of **ckeditor**<br>
 
 - 🥋 Sensei : &nbsp;                              Philippe Giraud
 - 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              
